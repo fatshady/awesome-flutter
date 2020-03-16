@@ -313,6 +313,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Flutterial](https://github.com/rxlabz/flutterial) [718⭐] - Flutter Material Theme explorer by [Erick Ghaumez](https://twitter.com/rxlabz).
 - [Pigment](https://github.com/bregydoc/pigment) [130⭐] - Simple but useful package for use colors in flutter.
+- [TinyColor](https://pub.dev/packages/tinycolor) [28⭐] - Flutter Color manipulation and conversion, ported from JS tinycolor2 by Brian Grinstead
+
+
 
 ### Media
 
